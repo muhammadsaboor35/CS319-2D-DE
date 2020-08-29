@@ -8,11 +8,11 @@ Analysis Report (Iteration 2) Link: https://github.com/usman-kakakhel/CS319-2D-D
 Design Report (Iteration 2) Link: https://github.com/usman-kakakhel/CS319-2D-DE/blob/master/doc/CS319%20-%20Group%202D%20-%20Project%20Design%20Report%20Iteration2.pdf
 
 ### Member Names: 
-Mian Usman Naeem Kakakhel,
-Muhammad Saboor,
-Taha Khurram,
-Balaj Saleem,
-Sayed Abdullah Qutb
+* Mian Usman Naeem Kakakhel
+* Muhammad Saboor
+* Taha Khurram
+* Balaj Saleem
+* Sayed Abdullah Qutb
 
 ### Meeting Times:
 Saturday 17:30 - 19:30,
